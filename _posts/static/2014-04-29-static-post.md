@@ -2,6 +2,7 @@
 layout: page
 published: true
 title: Static Post
+permalink: test/
 ---
 
 ## Dis got so much static up here!
